@@ -17,30 +17,19 @@ public:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	float Speed = 100.f;
-	UPROPERTY(VisibleDefaultsOnly)
-	int32 VisibleDefaultOnly = 5;
-	UPROPERTY(EditDefaultsOnly)
-	int32 EditDefaultOnlyInt = 9;
-	UPROPERTY(EditInstanceOnly)
-	int32 EditInstanceOnlyInt = 14;
-	UPROPERTY(EditAnywhere, BlueprintReadOnly)
-	int32 EditAnywhere = 32;
-	
-
-
 
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-private: 
-	UPROPERTY()
+private:
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "CustomComponents", meta = (AllowPrivateAccess = "true"))
 	class UCapsuleComponent* CapsuleComp;
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "CustomComponents", meta = (AllowPrivateAccess = "true"))
 	UStaticMeshComponent* BaseMesh;
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "CustomComponents", meta = (AllowPrivateAccess = "true"))
 	UStaticMeshComponent* TurretMesh;
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "CustomComponents", meta = (AllowPrivateAccess = "true"))
 	USceneComponent* ProjectileSpawnPoint;
 
 public:	

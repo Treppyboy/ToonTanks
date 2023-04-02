@@ -27,5 +27,8 @@ private:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "CustomComponents", meta = (AllowPrivateAccess = "true"))
 	class UCameraComponent* Camera;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Tank Specs", meta = (AllowPrivateAccess = "true"))
+	float Speed = 100.f;
+	
 	void Move(float Value);
 };

@@ -12,7 +12,27 @@
             "intelliSenseMode": "msvc-x64",
             "compileCommands": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks2\\.vscode\\compileCommands_Default.json",
             "cStandard": "c17",
-            "cppStandard": "c++17"
+            "cppStandard": "c++17",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/Intermediate/Build/Win64/UnrealEditor/Inc/ToonTanks"
+            ]
+        },
+        {
+            "name": "Toontank",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22000.0",
+            "compilerPath": "cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
         }
     ],
     "version": 4

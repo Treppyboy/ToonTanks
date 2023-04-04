@@ -1,37 +1,217 @@
 [
 	{
 		"file": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Source\\ToonTanks\\BasePawn.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.205.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.206.rsp",
 		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Source\\ToonTanks\\BasePawn.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.205.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.206.rsp",
 		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Source\\ToonTanks\\Tank.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.205.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.206.rsp",
 		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Source\\ToonTanks\\Tank.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.205.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.206.rsp",
 		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Source\\ToonTanks\\ToonTanks.Build.cs",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.205.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.206.rsp",
 		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Source\\ToonTanks\\ToonTanks.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.205.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.206.rsp",
 		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Source\\ToonTanks\\ToonTanks.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.205.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.206.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Source\\ToonTanks\\Tower.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.206.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Source\\ToonTanks\\Tower.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\ToonTanks.206.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\EditorDiscordRichPresence.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Private\\EditorDiscordRichPresence.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\achievement_manager.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\achievement_manager.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\activity_manager.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\activity_manager.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\application_manager.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\application_manager.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\core.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\core.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\discord.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\event.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\ffi.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\image_manager.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\image_manager.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\lobby_manager.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\lobby_manager.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\network_manager.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\network_manager.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\overlay_manager.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\overlay_manager.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\relationship_manager.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\relationship_manager.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\storage_manager.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\storage_manager.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\store_manager.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\store_manager.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\types.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\types.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\user_manager.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\user_manager.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\voice_manager.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\discord-files\\voice_manager.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "X:\\UE_EditorDiscordRichPresence\\5.0\\EditorDiscordRichPresence\\Source\\EditorDiscordRichPresence\\Public\\EditorDiscordRichPresence.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_Default\\EditorDiscordRichPresence.1.rsp",
 		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
 	}
 ]

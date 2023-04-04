@@ -4,7 +4,7 @@
 		{
 			"name": "Launch ToonTanks (Debug)",
 			"request": "launch",
-			"program": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks2\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"program": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 			"preLaunchTask": "ToonTanks Win64 Debug Build",
 			"args": [
 			],
@@ -20,7 +20,7 @@
 		{
 			"name": "Launch ToonTanks (DebugGame)",
 			"request": "launch",
-			"program": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks2\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"program": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 			"preLaunchTask": "ToonTanks Win64 DebugGame Build",
 			"args": [
 			],
@@ -36,7 +36,7 @@
 		{
 			"name": "Launch ToonTanks (Development)",
 			"request": "launch",
-			"program": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks2\\Binaries\\Win64\\UnrealGame.exe",
+			"program": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Binaries\\Win64\\UnrealGame.exe",
 			"preLaunchTask": "ToonTanks Win64 Development Build",
 			"args": [
 			],
@@ -52,7 +52,7 @@
 		{
 			"name": "Launch ToonTanks (Test)",
 			"request": "launch",
-			"program": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks2\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"program": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 			"preLaunchTask": "ToonTanks Win64 Test Build",
 			"args": [
 			],
@@ -68,7 +68,7 @@
 		{
 			"name": "Launch ToonTanks (Shipping)",
 			"request": "launch",
-			"program": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks2\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"program": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 			"preLaunchTask": "ToonTanks Win64 Shipping Build",
 			"args": [
 			],
@@ -87,7 +87,7 @@
 			"program": "E:\\UnrealEngine\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 			"preLaunchTask": "ToonTanksEditor Win64 Debug Build",
 			"args": [
-				"C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks2\\ToonTanks.uproject"
+				"C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\ToonTanks.uproject"
 			],
 			"cwd": "E:\\UnrealEngine\\UE_5.0",
 			"stopAtEntry": false,
@@ -104,7 +104,7 @@
 			"program": "E:\\UnrealEngine\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 			"preLaunchTask": "ToonTanksEditor Win64 DebugGame Build",
 			"args": [
-				"C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks2\\ToonTanks.uproject"
+				"C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\ToonTanks.uproject"
 			],
 			"cwd": "E:\\UnrealEngine\\UE_5.0",
 			"stopAtEntry": false,
@@ -121,7 +121,7 @@
 			"program": "E:\\UnrealEngine\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 			"preLaunchTask": "ToonTanksEditor Win64 Development Build",
 			"args": [
-				"C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks2\\ToonTanks.uproject"
+				"C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\ToonTanks.uproject"
 			],
 			"cwd": "E:\\UnrealEngine\\UE_5.0",
 			"stopAtEntry": false,
@@ -140,7 +140,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks2\\ToonTanks.uproject",
+				"-project=C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\ToonTanks.uproject",
 				"-game",
 				"-engine"
 			],

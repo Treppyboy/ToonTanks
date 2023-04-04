@@ -12,5 +12,14 @@
 				"Engine"
 			]
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "richpresence",
+			"Enabled": false
+		}
+	],
+	"AdditionalPluginDirectories": [
+		"X:/UE_EditorDiscordRichPresence/5.0"
 	]
 }

@@ -25,7 +25,7 @@ public:
 
 private:
 
-	UPROPERTY(EditDefaultsOnly, Category = "Custom Components");
+	UPROPERTY(EditDefaultsOnly, Category = "Custom Components")
 	class UStaticMeshComponent* ProjectileMesh;
 
 	

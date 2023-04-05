@@ -10,6 +10,16 @@
 		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
 	},
 	{
+		"file": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Source\\ToonTanks\\HealthComponent.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_ToonTanks\\ToonTanks.206.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Source\\ToonTanks\\HealthComponent.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_ToonTanks\\ToonTanks.206.rsp",
+		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"
+	},
+	{
 		"file": "C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\Source\\ToonTanks\\Projectile.cpp",
 		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Treppyboy\\Documents\\GitHub\\ToonTanks3\\.vscode\\compileCommands_ToonTanks\\ToonTanks.206.rsp",
 		"directory": "E:\\UnrealEngine\\UE_5.0\\Engine\\Source"

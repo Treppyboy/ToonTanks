@@ -25,8 +25,10 @@ public:
 
 private:
 
-	UPROPERTY(EditDefaultsOnly, Category = "Custom Components")
+	UPROPERTY(EditDefaultsOnly, Category = "Combat")
 	class UStaticMeshComponent* ProjectileMesh;
 
-	
+	UPROPERTY(VisibleAnywhere, Category = "Combat")
+	class UProjectileMovementComponent* ProjectileMovementComponent;
+
 };

@@ -10,7 +10,7 @@ void ATower::Tick(float DeltaTime)
 {
     Super::Tick(DeltaTime);
 
-    DrawDebugSphere(GetWorld(), GetActorLocation(), FireRange, 24, FColor::Red, false, -1.0f);
+    //DrawDebugSphere(GetWorld(), GetActorLocation(), FireRange, 24, FColor::Red, false, -1.0f);
 
 
     if (InFireRange())

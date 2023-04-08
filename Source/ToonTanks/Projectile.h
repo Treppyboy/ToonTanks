@@ -40,4 +40,11 @@ private:
 	UParticleSystem* HitParticles;
 	UPROPERTY(EditAnywhere, Category = "Combat")
 	UParticleSystemComponent* TrailParticleComponent;
+
+	UPROPERTY(EditAnywhere, Category = "Combat")
+	class USoundBase* LaunchSound;
+	UPROPERTY(EditAnywhere, Category = "Combat")
+	class USoundBase* HitSound;
+
+	
 };

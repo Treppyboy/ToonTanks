@@ -37,5 +37,8 @@ private:
 	UPROPERTY(EditDefaultsOnly, Category = "Combat")
 	class UParticleSystem* DestructionParticles;
 
+	UPROPERTY(EditAnywhere, Category = "Combat")
+	class USoundBase * DeathSound;
+
 
 };

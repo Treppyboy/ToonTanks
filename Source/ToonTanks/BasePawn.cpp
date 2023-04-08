@@ -6,6 +6,8 @@
 #include "Components/StaticMeshComponent.h"
 #include "Kismet/GameplayStatics.h"
 #include "Projectile.h"
+#include "Particles/ParticleSystem.h"
+
 
 // Sets default values
 ABasePawn::ABasePawn()
@@ -21,6 +23,7 @@ ABasePawn::ABasePawn()
 	TurretMesh-> SetupAttachment(BaseMesh);
 	ProjectileSpawnPoint = CreateDefaultSubobject<USceneComponent>(TEXT("Projectile Spawn Point"));
 	ProjectileSpawnPoint-> SetupAttachment(TurretMesh);
+
 }
 
 void ABasePawn::RotateTurret(FVector LookAtTarget)
@@ -45,6 +48,11 @@ void ABasePawn::Fire()
 
 void ABasePawn::HandleDestruction()
 {
-	//sfx vfx possibly chaos destruction? 
+	//sfx
+	if (DestructionParticles)
+	{
+		UGameplayStatics::SpawnEmitterAtLocation(this, DestructionParticles, GetActorLocation(), GetActorRotation());
+	}
+	
 }
 

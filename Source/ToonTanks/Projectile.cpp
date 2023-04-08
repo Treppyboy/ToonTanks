@@ -44,6 +44,7 @@ void AProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimi
 
 	if (MyOwner == nullptr)
 	{
+		Destroy();
 		return;
 	}
 
@@ -55,7 +56,14 @@ void AProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimi
 		UGameplayStatics::ApplyDamage(OtherActor, Damage, MyOwnerInstigator, this, DamageTypeClass);
 		
 		UE_LOG(LogTemp, Warning, TEXT("damage applied to %s"), *OtherActor->GetActorNameOrLabel());
-		Destroy();
+		if (HitParticles)
+		{
+			UGameplayStatics::SpawnEmitterAtLocation(this, HitParticles, GetActorLocation(), GetActorRotation());
+		}
+		
 	}
+
+	Destroy();
+
 }
 

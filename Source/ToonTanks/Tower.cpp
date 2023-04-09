@@ -5,6 +5,7 @@
 #include "Tank.h"
 #include "kismet/GameplayStatics.h"
 #include "TimerManager.h"
+#include "Math/UnrealMathUtility.h"
 
 void ATower::Tick(float DeltaTime)
 {
@@ -31,6 +32,7 @@ void ATower::BeginPlay()
     Super::BeginPlay();
 
     Tank = Cast<ATank>(UGameplayStatics::GetPlayerPawn(this,0));
+    FireRate = FMath::RandRange(0.5f, 5.0f);
 
     GetWorldTimerManager().SetTimer(FireRateTimerHandle, this, &ATower::CheckFireCondition, FireRate, true);
 }

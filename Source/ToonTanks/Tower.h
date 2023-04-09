@@ -35,4 +35,6 @@ private:
 	void CheckFireCondition();
 
 	bool InFireRange();
+
+	class UnrealMathUtility* RandRange;
 };
